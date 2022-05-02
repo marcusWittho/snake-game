@@ -1,3 +1,3 @@
 Snake Game  :)
 
-![Vídeo jogo da cobrinha](snake.mp4)
+![Vídeo jogo da cobrinha](./snake.mp4)
